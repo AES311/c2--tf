@@ -1,5 +1,5 @@
 Algoritmo COBRO_ESTACIONAMIENTO
-	valorHora <-400
+	valorHora <-500
 	Escribir "Ingresar horas de estacionamiento"
 	leer horasEst
 	Escribir "Ingresar minutos de estacionamiento"
